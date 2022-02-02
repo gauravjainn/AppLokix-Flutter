@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <filter id="Rectangle_361" x="0" y="0" width="175" height="175" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="22" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_455" data-name="Group 455" transform="translate(58 59)">
+    <g transform="matrix(1, 0, 0, 1, -58, -59)" filter="url(#Rectangle_361)">
+      <rect id="Rectangle_361-2" data-name="Rectangle 361" width="43" height="43" rx="21.5" transform="translate(66 63)" fill="#fcfcfc" opacity="0.25"/>
+    </g>
+    <g id="sort" transform="translate(26.022 21.544)">
+      <g id="Group_12" data-name="Group 12" transform="translate(0 0)">
+        <path id="Path_20" data-name="Path 20" d="M27.6,6.321A.323.323,0,0,0,27.918,6V.324A.321.321,0,0,0,27.4.066L25.3,1.646a.322.322,0,1,0,.387.516L27.273.969V6A.323.323,0,0,0,27.6,6.321Z" transform="translate(-25.165 0)" fill="#fff"/>
+        <path id="Path_21" data-name="Path 21" d="M247.111,86.771a.323.323,0,0,0-.322.322v5.621a.331.331,0,0,0,.177.29.355.355,0,0,0,.145.032.322.322,0,0,0,.193-.064l2.106-1.553a.323.323,0,1,0-.382-.521l-1.6,1.177V87.093A.323.323,0,0,0,247.111,86.771Z" transform="translate(-242.586 -85.125)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

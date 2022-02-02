@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "671138907621",
+    "firebase_url": "https://lokix-37c36-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lokix-37c36",
+    "storage_bucket": "lokix-37c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671138907621:android:272f41681b3a97fe2d5b0c",
+        "android_client_info": {
+          "package_name": "com.odaxiacorp.lokix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671138907621-3sltc9sri3f70j2d9vgr9k7ejl4sr5bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odaxiacorp.lokix",
+            "certificate_hash": "c66295287425a650c042a57e8a0f447126c89b4b"
+          }
+        },
+        {
+          "client_id": "671138907621-l7kdedgnjlnv3j608uf9shcdgvko86tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odaxiacorp.lokix",
+            "certificate_hash": "fc6939d89acc00f7573617e7243e1b0d947e1c24"
+          }
+        },
+        {
+          "client_id": "671138907621-sb57mpm8kha1ki4748v97iba813ciu3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1DQBavk-CCnVCkJng_pdF17hn3L-S4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671138907621-sb57mpm8kha1ki4748v97iba813ciu3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671138907621-6749fm97ac2mtmpilvdj0h7579132gk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.odaxiacorp.lokix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

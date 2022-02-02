@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-1.071" y1="1.249" x2="1.407" y2="-0.176" gradientUnits="objectBoundingBox">
+      <stop offset="0.05" stop-color="#9668f7"/>
+      <stop offset="1" stop-color="#78d8fb"/>
+    </linearGradient>
+    <filter id="Rectangle_361" x="0" y="0" width="175" height="175" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="22" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_448" data-name="Group 448" transform="translate(-212 -519.497)">
+    <g transform="matrix(1, 0, 0, 1, 212, 519.5)" filter="url(#Rectangle_361)">
+      <rect id="Rectangle_361-2" data-name="Rectangle 361" width="43" height="43" rx="21.5" transform="translate(66 63)" opacity="0.1" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="chat-speech-balloon" transform="translate(292.693 597.211)">
+      <g id="Group_110" data-name="Group 110" transform="translate(0 0)">
+        <path id="Path_195" data-name="Path 195" d="M7.055,17.425C3.162,17.425,0,19.906,0,22.95a5.075,5.075,0,0,0,2.312,4.1l-.5,2.867a.493.493,0,0,0,.2.5A.471.471,0,0,0,2.3,30.5a.446.446,0,0,0,.235-.059l3.725-2c.269.025.53.034.79.034,3.893,0,7.055-2.481,7.055-5.525S10.949,17.425,7.055,17.425Zm0,10.032c-.269,0-.555-.017-.841-.042a.517.517,0,0,0-.294.059L2.977,29.055l.378-2.161a.5.5,0,0,0-.227-.513A4.156,4.156,0,0,1,1,22.95c0-2.489,2.716-4.516,6.046-4.516s6.046,2.027,6.046,4.516S10.385,27.457,7.055,27.457Z" transform="translate(0 -17.425)" fill="#9292b1"/>
+      </g>
+    </g>
+  </g>
+</svg>
